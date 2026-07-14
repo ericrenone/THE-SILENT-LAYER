@@ -940,6 +940,4 @@ Not hoping. Not guessing. Not lagging 4–6 weeks behind exponential growth.
 
 **ERI Labs | Eric Ren | Jersey City, New Jersey | July 2026**
 
-**Contact:** eric@erilabs.io | [github.com/ericrenone](https://github.com/ericrenone)
-
 **Corpus Lineage:** ERIC · ETHC · Banach-1 · Volder-1 · CRICK · ERIE-ONE · ERIE-GENE-ONE · MITCHELL · THE ARCHITECTURE GAP · THE QUANTUM SEAM · HORIZON · ARTEMIS · PANDEMONIUM · **THE SILENT LAYER**

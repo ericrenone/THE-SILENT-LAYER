@@ -2,11 +2,11 @@
 
 **ERI Labs | July 2026 | Strategic Integration Document**
 
-* https://github.com/ericrenone/QUANTUM-BIO-SEAM-HORIZON-PROOF *
+* https://github.com/ericrenone/QUANTUM-BIO-SEAM-HORIZON-PROOF
 
-* https://github.com/ericrenone/PANDEMONIUM *
+* https://github.com/ericrenone/PANDEMONIUM
 
-* https://github.com/ericrenone/ARTEMIS *
+* https://github.com/ericrenone/ARTEMIS
 
 ---
 
